@@ -1,0 +1,13 @@
+/Users/u.mamasaliyev/CLionProjects/lab4/cmake-build-debug/CMakeFiles/simple_example.dir
+/Users/u.mamasaliyev/CLionProjects/lab4/cmake-build-debug/CMakeFiles/example1.dir
+/Users/u.mamasaliyev/CLionProjects/lab4/cmake-build-debug/CMakeFiles/example2.dir
+/Users/u.mamasaliyev/CLionProjects/lab4/cmake-build-debug/CMakeFiles/problem4.dir
+/Users/u.mamasaliyev/CLionProjects/lab4/cmake-build-debug/CMakeFiles/problem5.dir
+/Users/u.mamasaliyev/CLionProjects/lab4/cmake-build-debug/CMakeFiles/problem6.dir
+/Users/u.mamasaliyev/CLionProjects/lab4/cmake-build-debug/CMakeFiles/problem7.dir
+/Users/u.mamasaliyev/CLionProjects/lab4/cmake-build-debug/CMakeFiles/problem8.dir
+/Users/u.mamasaliyev/CLionProjects/lab4/cmake-build-debug/CMakeFiles/problem9.dir
+/Users/u.mamasaliyev/CLionProjects/lab4/cmake-build-debug/CMakeFiles/problem10.dir
+/Users/u.mamasaliyev/CLionProjects/lab4/cmake-build-debug/CMakeFiles/problem11.dir
+/Users/u.mamasaliyev/CLionProjects/lab4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/u.mamasaliyev/CLionProjects/lab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

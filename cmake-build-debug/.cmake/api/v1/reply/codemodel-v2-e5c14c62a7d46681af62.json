@@ -1,0 +1,150 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lab4",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "example1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example1-Debug-1ba5946e1096a56744a8.json",
+					"name" : "example1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example2-Debug-3e84a2815034b8905021.json",
+					"name" : "example2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "problem10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-problem10-Debug-8a1ac628628facc79762.json",
+					"name" : "problem10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "problem11::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-problem11-Debug-70fd64d5453d0c5aa461.json",
+					"name" : "problem11",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "problem4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-problem4-Debug-4d2e57224b4908527bc2.json",
+					"name" : "problem4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "problem5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-problem5-Debug-8dc606698de36f0e978f.json",
+					"name" : "problem5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "problem6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-problem6-Debug-43e0606e34171f19d100.json",
+					"name" : "problem6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "problem7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-problem7-Debug-aa200aa7df237e00c60c.json",
+					"name" : "problem7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "problem8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-problem8-Debug-e563f34ae6575d7d1061.json",
+					"name" : "problem8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "problem9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-problem9-Debug-79c996d1c8c01d219059.json",
+					"name" : "problem9",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "simple_example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simple_example-Debug-b0dd29cda12718c482c4.json",
+					"name" : "simple_example",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/u.mamasaliyev/CLionProjects/lab4/cmake-build-debug",
+		"source" : "/Users/u.mamasaliyev/CLionProjects/lab4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
